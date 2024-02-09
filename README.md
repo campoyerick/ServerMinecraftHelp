@@ -72,7 +72,7 @@ Um processador robusto Ã© essencial para um servidor funcionar sem problemas. âš
 **Servidor para 100 Jogadores**
 
 - **RAM:** 16 GB
-- **Processador:** AMD EPYC 7451
+- **Processador:** AMD Ryzen 9 5900X
 - **Plugins:** 30
 - **Mods:** 10
 
