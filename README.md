@@ -41,6 +41,7 @@ Um processador robusto é essencial para um servidor funcionar sem problemas. �
 - **Servidor com 10 Plugins:** 2 GB
 - **Servidor com 30 Plugins:** 4 GB
 - **Servidor Network:** 8 GB ou mais
+- **Servidor com Mods:** 8-14 GB ou mais *(Observação: Servidores que executam o modpack geralmente exigem um mínimo de 8 GB de RAM para um desempenho estável. No entanto, considere que podem ser necessários mais recursos dependendo da atividade e do número de jogadores.)*
 
 **Recomendação:** Assim como com a RAM, é melhor ter mais memória do que o mínimo necessário. Comece com uma quantidade maior e ajuste conforme necessário.
 
@@ -85,3 +86,26 @@ Um processador robusto é essencial para um servidor funcionar sem problemas. �
 ### Observações Importantes
 
 - As informações fornecidas neste README estão sujeitas a alterações. 🚧
+
+## Plugins de otimização para servidores de Minecraft ⛏️
+
+Este guia apresenta alguns plugins que podem otimizar o desempenho do seu servidor de Minecraft, reduzir o lag e melhorar a experiência de jogo para todos os jogadores. 
+
+**Plugins para otimização de memória:**
+
+* **GommeHD Garbage Collector: <https://www.spigotmc.org/resources/garbage-collector.26902/>** (Tamanho: ~1.5 MB) - Um plugin que libera memória RAM não utilizada pelo servidor, ajudando a prevenir travamentos e lag.
+* **RamCleaner: <https://www.spigotmc.org/resources/ram-cleaner-ultra-1-16-1-19-x.108858/>** (Tamanho: ~0.5 MB) - Um plugin leve que limpa a memória RAM do servidor em intervalos regulares, liberando recursos e evitando lag.
+
+**Plugins para otimização de chunks:**
+
+* **FastChunkPregenerator: <https://www.spigotmc.org/resources/fast-chunk-pregenerator.74429/>** (Tamanho: ~2.5 MB) - Um plugin que gera chunks em segundo plano, reduzindo o lag durante a exploração do mundo.
+* **WorldBorder: <https://www.spigotmc.org/resources/worldborder.60905/>** (Tamanho: ~0.5 MB) - Um plugin que define um limite para o mundo do jogo, evitando que jogadores explorem áreas desnecessárias e diminuindo o lag.
+
+**Lembre-se:**
+
+* Escolha plugins que sejam compatíveis com a versão do seu servidor e com outros plugins que você esteja usando.
+* Leia a documentação de cada plugin antes de instalá-lo.
+* Configure os plugins de acordo com as suas necessidades.
+* Faça backups regulares do seu servidor antes de instalar qualquer plugin.
+
+Com os plugins certos e um pouco de configuração, você pode otimizar seu servidor de Minecraft e proporcionar uma experiência de jogo perfeita para todos os seus jogadores. 
